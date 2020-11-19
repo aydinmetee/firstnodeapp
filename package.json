@@ -1,0 +1,15 @@
+{
+  "name": "simple-nodejs",
+  "version": "1.0.0",
+  "description": "Test node.js projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Metehan Aydin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ejs": "*"
+  }
+}
